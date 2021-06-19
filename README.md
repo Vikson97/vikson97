@@ -1,4 +1,6 @@
 ### Hi there 👋
+- [My portfolio](https://vikson97.github.io/vikash.kumar/)
+- 🔭 I’m currently working on a new project
 
 <!--
 **Vikson97/vikson97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
